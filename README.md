@@ -72,6 +72,4 @@ This Travel and Tourism Management System is a desktop application developed in 
 
     📱 Build web or mobile app versions.
 
-📄 License
 
-Open source under the MIT License.
